@@ -13,9 +13,9 @@
 #Vyxterhost.com
 config-version: 8
 messages:
-  whitelist: El servidor tiene whitelist. Vyxterhost.com
-  unknown-command: El comando colocado es desconocido, usa /help para ver la lista disponible. Vyxterhost.com
-  server-full: Servidor lleno! Vyxterhost.com
+  whitelist: El servidor tiene whitelist. 
+  unknown-command: El comando colocado es desconocido, usa /help para ver la lista disponible.
+  server-full: Servidor lleno! 
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
