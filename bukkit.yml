@@ -21,7 +21,7 @@ settings:
   connection-throttle: 4000
   query-plugins: true
   deprecated-verbose: default
-  shutdown-message: Servidor cerrado. VyxterHost.com
+  shutdown-message: Servidor Cerrado. vyxterhost.com
 spawn-limits:
   monsters: 40
   animals: 8
